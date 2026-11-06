@@ -122,7 +122,7 @@ a:hover {                         /* <a> als je er met de muis op staat */
 
 .item-plaatje {
   float: left;
-  width: 250px;
+  width: 350px;
   padding-right: 15px; /* zorgt dat plaatje niet tegen tekst komt */
 }
 
