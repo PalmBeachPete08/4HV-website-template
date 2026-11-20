@@ -23,8 +23,8 @@
 }
 
 html, body {                      /* geldt voor html en body */
-  background-color: #EEEEEE;    /* achtergrondkleur lichtgrijs */
-  color: #303030;               /* tekstkleur donkergrijs */
+  background-color: #5F2A62;    /* achtergrondkleur lichtgrijs */
+  color: #A0DE59;               /* tekstkleur donkergrijs */
 }  
 
 div {                             /* geldt voor div */
@@ -55,7 +55,7 @@ div {                             /* geldt voor div */
 h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
   margin: 10px 0px;
   text-align: center;             /* tekst centreren */
-  color: skyblue;
+  color: rgb(0, 0, 0);
 } 
 
 p {
@@ -99,7 +99,7 @@ a:hover {                         /* <a> als je er met de muis op staat */
 
 .nav li a {
   display: block;
-  color: white;
+  color: rgb(121, 43, 185);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -127,8 +127,21 @@ a:hover {                         /* <a> als je er met de muis op staat */
 }
 
 .item-tekst {
+  width: 340px;
+}
+
+.item {
+  font-size: larger;
+}
+
+.item-plaatje2 {
   float: right;
-  width: 450px;
+  width: 350px;
+  padding-left: 15px;
+}
+
+.item-tekst2 {
+  width: 240; 
 }
 
 /************************* SUBPAGINA *************************/
