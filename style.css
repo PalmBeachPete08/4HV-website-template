@@ -149,3 +149,22 @@ a:hover {                         /* <a> als je er met de muis op staat */
 /* Indeling en opmaak voor subpagina */
 
 /* verzin deze zelf... */
+.item-plaatje3 {
+  float: left;
+  width: 200px;
+
+}
+.item-plaatje4 {
+  float: left;
+  width: 197px;
+  padding-right: 15px;
+}
+.unit00 {
+  width: 700px;
+}
+
+.item-plaatje5 {
+  float: right;
+  width: 250px;
+  padding-left: 15px;
+}
